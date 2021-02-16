@@ -39,7 +39,7 @@ body {
 }
 
 a {
-    color: #e43146;
+    color: #3498db;
     text-decoration: none;
     transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -158,12 +158,12 @@ textarea {
 }
 
 .btn-primary {
-    box-shadow: 0 0 0 4px #e43146;
-    -webkit-box-shadow: 0 0 0 4px #e43146;
-    -moz-box-shadow: 0 0 0 4px #e43146;
-    -ms-box-shadow: 0 0 0 4px #e43146;
+    box-shadow: 0 0 0 4px #3498db;
+    -webkit-box-shadow: 0 0 0 4px #3498db;
+    -moz-box-shadow: 0 0 0 4px #3498db;
+    -ms-box-shadow: 0 0 0 4px #3498db;
     border: 1px solid #fff;
-    background: #e43146;
+    background: #3498db;
     position: relative;
     overflow: hidden;
 }
@@ -252,7 +252,7 @@ svg:not(:root) {
     margin: 4px 30px 4px 4px;
     width: 60px;
     height: 60px;
-    background: #e43146;
+    background: #3498db;
     font-family: 'Philosopher', sans-serif;
     font-size: 40px;
     font-weight: 400;
@@ -260,9 +260,9 @@ svg:not(:root) {
     vertical-align: middle;
     color: #fff;
     border: 1px solid #fff;
-    box-shadow: 0 0 0 4px #e43146;
-    -webkit-box-shadow: 0 0 0 4px #e43146;
-    -moz-box-shadow: 0 0 0 4px #e43146;
+    box-shadow: 0 0 0 4px #3498db;
+    -webkit-box-shadow: 0 0 0 4px #3498db;
+    -moz-box-shadow: 0 0 0 4px #3498db;
     -ms-box-shadow: 0 0 0 4px #fff;
     -webkit-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
@@ -311,7 +311,7 @@ section {
     position: absolute;
     top: 0;
     right: 10%;
-    background: rgba(192, 39, 57, 0.8);
+    background: #3498dbc0;
     transform: skewX(-30deg);
     -webkit-transform: skewX(-30deg);
     -moz-transform: skewX(-30deg);
@@ -369,7 +369,7 @@ section {
     position: relative;
     z-index: 1;
     margin: 8px;
-    border: 1px solid #e43146;
+    border: 1px solid #3498db;
     box-shadow: 0 0 0 8px #fff;
     -webkit-box-shadow: 0 0 0 8px #fff;
     -moz-box-shadow: 0 0 0 8px #fff;
@@ -382,7 +382,7 @@ section {
 }
 
 .profile-name-holder .name {
-    color: #e43146;
+    color: #3498db;
 }
 
 .rotate {
@@ -400,12 +400,12 @@ section {
     line-height: 28px;
     color: #fff;
     padding: 10px 20px;
-    background: #e43146;
+    background: #3498db;
     border: 1px solid #fff;
-    box-shadow: 0 0 0 4px #e43146;
-    -webkit-box-shadow: 0 0 0 4px #e43146;
-    -moz-box-shadow: 0 0 0 4px #e43146;
-    -ms-box-shadow: 0 0 0 4px #e43146;
+    box-shadow: 0 0 0 4px #3498db;
+    -webkit-box-shadow: 0 0 0 4px #3498db;
+    -moz-box-shadow: 0 0 0 4px #3498db;
+    -ms-box-shadow: 0 0 0 4px #3498db;
     -webkit-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -ms-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
@@ -414,7 +414,7 @@ section {
 
 .rotator-progress-bar {
     height: 1px;
-    background: #e43146;
+    background: #3498db;
     position: absolute;
     top: 50%;
     left: 0;
@@ -436,7 +436,7 @@ section {
 }
 
 .profile-skills ul li {
-    background: #e23145;
+    background: #3498db;
     position: relative;
     padding: 15px 20px;
     color: #fff;
@@ -515,7 +515,7 @@ section {
     width: 100%;
     position: relative;
     z-index: 9999;
-    background: #e43146;
+    background: #3498db;
     font-size: 15px;
     font-weight: 400;
     border: 0;
@@ -624,7 +624,7 @@ section {
 .counter-box .counter {
     font-size: 80px;
     line-height: 80px;
-    color: #e43146;
+    color: #3498db;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
@@ -635,7 +635,7 @@ section {
 }
 
 .counter-box:hover {
-    background: #e43146;
+    background: #3498db;
     color: #fff;
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
@@ -692,7 +692,7 @@ section {
 }
 
 .profile-timeline:after {
-    background: #e43146;
+    background: #3498db;
     width: 2px;
     height: 100%;
     display: block;
@@ -711,12 +711,12 @@ section {
     display: table;
     color: #fff;
     padding: 12px 20px;
-    background: #e43146;
+    background: #3498db;
     border: 1px solid #fff;
-    box-shadow: 0 0 0 4px #e43146;
-    -webkit-box-shadow: 0 0 0 4px #e43146;
-    -moz-box-shadow: 0 0 0 4px #e43146;
-    -ms-box-shadow: 0 0 0 4px #e43146;
+    box-shadow: 0 0 0 4px #3498db;
+    -webkit-box-shadow: 0 0 0 4px #3498db;
+    -moz-box-shadow: 0 0 0 4px #3498db;
+    -ms-box-shadow: 0 0 0 4px #3498db;
     -webkit-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -ms-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
@@ -743,7 +743,7 @@ section {
     height: 10px;
     left: 50%;
     margin-left: -5px;
-    background: #e43146;
+    background: #3498db;
     position: absolute;
     z-index: -1;
     display: block;
@@ -764,7 +764,7 @@ section {
 
 .profile-timeline h4 {
     font-size: 24px;
-    color: #e43146;
+    color: #3498db;
     margin-bottom: 10px;
     font-family: 'Philosopher', sans-serif;
     position: relative;
@@ -779,7 +779,7 @@ section {
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
-    background: #e43146;
+    background: #3498db;
     position: absolute;
     display: block;
     content: "";
@@ -849,7 +849,7 @@ section {
 .expertise h3 span {
     float: right;
     color: #fff;
-    background: #e43146;
+    background: #3498db;
     padding: 5px;
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
@@ -867,7 +867,7 @@ section {
 }
 
 .expertise .progress .progress-bar {
-    background: #e43146;
+    background: #3498db;
     position: relative;
     float: none;
     overflow: visible !important;
@@ -882,7 +882,7 @@ section {
     right: -2px;
     width: 15px;
     height: 15px;
-    background: #e43146;
+    background: #3498db;
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
@@ -931,7 +931,7 @@ section {
 }
 
 .work-strategy-box h3 {
-    color: #e43146;
+    color: #3498db;
     transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -953,7 +953,7 @@ section {
 
 .work-strategy-box .icon i {
     font-size: 40px;
-    color: #e43146;
+    color: #3498db;
     transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -1017,7 +1017,7 @@ section {
 
 .services-box .icon i {
     font-size: 40px;
-    color: #e43146;
+    color: #3498db;
     margin-top: 20px;
 }
 
@@ -1039,7 +1039,7 @@ section {
 }
 
 .services-box:hover h3 {
-    color: #e43146;
+    color: #3498db;
 }
 
 
@@ -1087,8 +1087,8 @@ section {
 .filters ul li a.active,
 .filters ul li a:hover {
     color: #fff;
-    background: #e43146;
-    border-color: #e43146;
+    background: #3498db;
+    border-color: #3498db;
     text-decoration: none;
 }
 
@@ -1255,7 +1255,7 @@ section {
 .testimonial-author-info .name {
     font-size: 24px;
     line-height: 28px;
-    color: #e43146;
+    color: #3498db;
     font-family: 'Philosopher', sans-serif;
 }
 
@@ -1300,8 +1300,8 @@ section {
 
 .testimonials .owl-controls .owl-dots .owl-dot span:hover,
 .testimonials .owl-controls .owl-dots .active span {
-    border-color: #e43146;
-    background: #e43146;
+    border-color: #3498db;
+    background: #3498db;
 }
 
 
@@ -1388,7 +1388,7 @@ section {
 
 .contact-phone a:hover,
 .contact-email a:hover {
-    color: #e43146;
+    color: #3498db;
 }
 
 .contact-address i,
@@ -1435,13 +1435,13 @@ section {
     height: 40px;
     line-height: 38px;
     color: #fff;
-    background: #e43146;
+    background: #3498db;
     border: 1px solid #fff;
     border-radius: 50%;
-    box-shadow: 0 0 0 2px #e43146;
-    -webkit-box-shadow: 0 0 0 2px #e43146;
-    -moz-box-shadow: 0 0 0 2px #e43146;
-    -ms-box-shadow: 0 0 0 2px #e43146;
+    box-shadow: 0 0 0 2px #3498db;
+    -webkit-box-shadow: 0 0 0 2px #3498db;
+    -moz-box-shadow: 0 0 0 2px #3498db;
+    -ms-box-shadow: 0 0 0 2px #3498db;
     -webkit-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -ms-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
