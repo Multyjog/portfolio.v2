@@ -1,0 +1,288 @@
+@charset "UTF-8";
+
+/*===========================================
+      1. Large Screen Size (1280px Max)
+/*=========================================*/
+
+@media (max-width: 1280px) {
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    h6 {
+        font-size: 14px;
+    }
+    .number {
+        font-size: 32px;
+        width: 48px;
+        height: 48px;
+        margin-right: 20px;
+    }
+    .welcome:after {
+        right: 0;
+    }
+    .profile-image {
+        left: 5%;
+        max-width: 540px;
+    }
+    .profile-holder {
+        max-width: 480px;
+    }
+    .profile-holder h1 {
+        font-size: 32px;
+    }
+    .profile-name-holder {
+        font-size: 30px;
+        padding: 20px;
+    }
+    .rotate-text {
+        margin-top: 15px;
+    }
+    .rotate-text > span {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .profile-skills {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .profile-skills ul li {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .navbar {
+        font-size: 14px;
+    }
+    .navbar .navbar-nav li a {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .introduction,
+    .expertise {
+        font-size: 16px;
+    }
+    .counter-box .counter {
+        font-size: 60px;
+    }
+    .contact-form input[type="submit"] {
+        font-size: inherit;
+    }
+    .contact-address,
+    .contact-phone,
+    .contact-email {
+        font-size: 16px;
+    }
+}
+
+
+/*===========================================
+      2. Medium Screen Size (991px Max)
+/*=========================================*/
+
+@media (max-width: 991px) {
+    h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    .profile-image {
+        left: 0;
+    }
+    .scroll-down {
+        display: none;
+    }
+    .navbar .navbar-brand {
+            width: 60px;
+    }
+    .navbar {
+        font-size: 12px;
+    }
+    .navbar-collapse {
+        margin: 0 -15px !important;
+    }
+    .navbar .navbar-nav {
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+    .navbar .navbar-nav li a  {
+           padding: 25px 6px;
+    }
+    .profile-holder h1 {
+        font-size: 28px;
+    }
+    .profile-timeline h4 {
+        font-size: 20px;
+    }
+    .work-strategy-box {
+        margin-left: 0 !important;
+        max-width: 100%;
+    }
+    .expertise .progress-bar-box {
+        margin-top: 30px;
+    }
+    .testimonial-content {
+        font-size: inherit;
+        line-height: inherit;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .testimonial-content:before {
+        top: 10px;
+    }
+    .testimonial-content:after {
+        bottom: 10px;
+    }
+    .testimonial-author-info .name {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .testimonial-author-info .name span {
+        font-size: 14px;
+    }
+}
+
+
+/*===========================================
+      3. Small Screen Size (767px Max)
+/*=========================================*/
+
+@media (max-width: 767px) {
+    html,
+    body {
+        height: auto;
+    }
+    .number {
+        font-size: 24px;
+        width: 40px;
+        height: 40px;
+        margin-right: 20px;
+    }
+    .heading {
+        margin-bottom: 30px;
+    }
+    .profile-holder {
+        max-width: 480px;
+        float: none;
+        display: block;
+        margin: 0 auto 30px;
+    }
+    .profile-holder-inner {
+        display: block;
+    }
+    .profile-skills {
+        text-align: center;
+    }
+    .welcome:after {
+        display: none;
+    }
+    .profile-image {
+        max-width: 480px;
+        top: 50px;
+        left: auto;
+        margin: 0 auto;
+        position: relative;
+    }
+    .navbar {
+        position: fixed;
+        top: 0;
+    }
+    .navbar .navbar-brand {
+        width: 52px;
+    }
+    .navbar-toggle {
+        padding: 15px 0;
+    }
+    .navbar-header {
+        margin: 0 !important;
+        width: 100%;
+        position: relative;
+        left: auto;
+        transform: inherit;
+        -webkit-transform: inherit;
+        -moz-transform: inherit;
+        -ms-transform: inherit;
+    }
+    .navbar .navbar-nav {
+        display: block;
+    }
+    .navbar .navbar-nav li a {
+        padding: 12px 20px;
+    }
+    .profile-timeline {
+        margin-top: 0;
+    }
+    .work-strategy-box {
+        max-width: 100%;
+    }
+    .introduction,
+    .profile,
+    .expertise,
+    .work-strategy,
+    .services,
+    .portfolio {
+        padding-bottom: 150px;
+    }
+    .services .row div[class*="col"]:nth-child(2n) {
+        top: inherit;
+    }
+    .counter-box .counter {
+        font-size: 48px;
+    }
+    .contact-form {
+        margin-top: -100px;
+        padding: 20px;
+    }
+    .contact-address,
+    .contact-phone,
+    .contact-email {
+        padding-left: 40px;
+    }
+    .contact-address i,
+    .contact-phone i,
+    .contact-email i {
+        text-align: left;
+    }
+    .copyright {
+        margin: 0 -15px;
+    }
+}
+
+
+/*===========================================
+      4. Extra Small Screen Size (479px Max)
+/*=========================================*/
+
+@media (max-width: 479px) {
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    section {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .profile-skills {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .profile-skills ul li {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 15px;
+    }
+}

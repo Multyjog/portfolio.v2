@@ -1,0 +1,66 @@
+@charset "utf-8";
+/*=========================
+      Button
+==========================*/
+.btn-primary { background: #27ae60; box-shadow:0 0 0 4px  #27ae60; -webkit-box-shadow:0 0 0 4px  #27ae60; -moz-box-shadow:0 0 0 4px  #27ae60; -ms-box-shadow:0 0 0 4px  #27ae60; }
+/*=========================
+      Welcome
+==========================*/
+.welcome:after { background: rgba(39, 174, 96, 0.8); }
+.profile-name-holder { border-color:  #27ae60; }
+.profile-name-holder .name { color: #27ae60; }
+.rotator-progress-bar { background:  #27ae60; }
+.rotate-text > span { background: #27ae60; box-shadow:0 0 0 4px  #27ae60; -webkit-box-shadow:0 0 0 4px  #27ae60; -moz-box-shadow:0 0 0 4px  #27ae60; -ms-box-shadow:0 0 0 4px  #27ae60; }
+.profile-skills ul li { background:  #27ae60;}
+/*=========================
+      Navigation
+==========================*/
+.navbar { background: #27ae60; }
+.number { background: #27ae60; box-shadow:0 0 0 4px  #27ae60; -webkit-box-shadow:0 0 0 4px  #27ae60; -moz-box-shadow:0 0 0 4px  #27ae60; -ms-box-shadow:0 0 0 4px  #27ae60;  }
+/*=========================
+      Introduction
+==========================*/
+.counter-box .counter { color: #27ae60; }
+.counter-box:hover { background: #27ae60;}
+/*=========================
+      Profile
+==========================*/
+.profile-timeline h3 { background: #27ae60; box-shadow:0 0 0 4px  #27ae60; -webkit-box-shadow:0 0 0 4px  #27ae60; -moz-box-shadow:0 0 0 4px  #27ae60; -ms-box-shadow:0 0 0 4px  #27ae60;   }
+.profile-timeline h3:before, .profile-timeline h3:after { background:  #27ae60;}
+.profile-timeline h4 { color: #27ae60; }
+.profile-timeline h4:after { background:  #27ae60;}
+.profile-timeline:after { background:  #27ae60;}
+/*=========================
+      Expertise
+==========================*/
+.expertise h3 span,
+.expertise .progress .progress-bar,
+.expertise .progress .progress-bar:after { background:  #27ae60;}
+/*=========================
+      Work Strategy
+==========================*/
+.work-strategy-box h3 { color:  #27ae60;}
+.work-strategy-box .icon i { color:  #27ae60;}
+/*=========================
+      Services
+==========================*/
+.services-box .icon i {color:  #27ae60;}
+.services-box:hover h3 { color:  #27ae60;}
+.services-box:hover { background: #27ae60;}
+.services-box:hover i { color: #fff;}
+.services-box:hover h3 { color: #fff;}
+/*=========================
+      Portfolio
+==========================*/
+.filters ul li a.active, .filters ul li a:hover { background:  #27ae60; border-color: #27ae60; }
+/*=========================
+      Testimonials
+==========================*/
+.testimonial-author-info .name { color:  #27ae60;}
+.testimonials .owl-controls .owl-dots .owl-dot span:hover,
+.testimonials .owl-controls .owl-dots .active span { border-color: #27ae60; background: #27ae60; }
+/*=========================
+      Contact
+==========================*/
+.contact-phone a:hover, .contact-email a:hover { color:  #27ae60;}
+.social-media ul li a {  background: #27ae60; box-shadow:0 0 0 2px  #27ae60; -webkit-box-shadow:0 0 0 2px  #27ae60; -moz-box-shadow:0 0 0 2px  #27ae60; -ms-box-shadow:0 0 0 2px  #27ae60; }
