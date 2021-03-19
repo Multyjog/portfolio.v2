@@ -1099,6 +1099,7 @@ section {
 .grid .item img {
     width: 100%;
     display: block;
+    border-radius: 10px;
 }
 
 .grid .item:hover .overlay {
