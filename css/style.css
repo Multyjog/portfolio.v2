@@ -1104,6 +1104,7 @@ section {
 
 .grid .item:hover .overlay {
     opacity: 1;
+    border-radius: 10px;
 }
 
 .grid .overlay {
