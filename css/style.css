@@ -37,7 +37,9 @@ body {
     color: #040e14;
     overflow-x: hidden;
 }
-
+.bold {
+    font-weight: bold;
+}
 a {
     color: #3498db;
     text-decoration: none;
@@ -45,6 +47,15 @@ a {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
+}
+.primevue-link {
+    color: white;
+    text-decoration: underline;
+}
+.digital-basis-link:hover {
+    color: #f14a86;
+    text-decoration: underline;
+
 }
 
 h1,
